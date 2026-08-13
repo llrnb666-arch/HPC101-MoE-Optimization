@@ -1,0 +1,9 @@
+﻿build/
+*.o
+*.exe
+*.obj
+*.ninja
+*.log
+__pycache__/
+*.pyc
+.vscode/
